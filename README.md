@@ -7,7 +7,8 @@ The purpose of this analysis is to examine the Citi Bike Sharing program data fr
 Using the visualizations, there are some quick take aways from the Citi Bike Sharing program data. 
 
  - Most people used the shared bike for very short amounts of time. 
-    
+
+     [1 - Very short amounts of time(.PNG)](/../main/1 - Very short amounts of time.PNG)
 
  - People who identify as male, used the bike sharing program, the most of any gendered group. 
 
