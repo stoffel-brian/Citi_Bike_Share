@@ -30,3 +30,8 @@ Using the visualizations, there are some quick take aways from the Citi Bike Sha
 ## Summary: Provide a high-level summary of the results.
 
 In short, people (most commonly, people who identified as male) used the Citi Bike Sharing program before/after business hours and on the weekends.
+
+
+Here is a [link to the Tableau Dashboard](https://public.tableau.com/views/NYC_Citibike_Challenge_16401064872890/CheckoutTimesforUsers?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+
